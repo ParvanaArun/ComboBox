@@ -16,7 +16,7 @@ It captures user input via a combo box and processes it on the backend.
 ---
 
 ## 📁 Folder Structure
-
+```
 src/
 ├── main/
 │ ├── java/com/example/ComboBox/
@@ -41,7 +41,8 @@ src/
 │ ├── index.jsp
 │ └── report.jsp
 └── test/java/com/example/ComboBox/
----
+````
+----
 
 ## 🧠 Features
 
@@ -54,5 +55,5 @@ src/
 ---
 
 🙋‍♀️ Author
-Parvana Arun
+Parvana Arun  
 GitHub: @ParvanaArun
