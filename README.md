@@ -3,7 +3,6 @@
 This project demonstrates a simple web form using a dropdown (`<form:select>`) in JSP, integrated with Spring Boot MVC. 
 It captures user input via a combo box and processes it on the backend.
 
----
 
 ## 🔧 Technologies Used
 - Java 8+
@@ -13,7 +12,6 @@ It captures user input via a combo box and processes it on the backend.
 - Maven
 - Eclipse IDE
 
----
 
 ## 📁 Folder Structure
 ```
@@ -42,7 +40,7 @@ src/
 │ └── report.jsp
 └── test/java/com/example/ComboBox/
 ````
-----
+
 
 ## 🧠 Features
 
@@ -52,7 +50,7 @@ src/
 - Generates report view of all sales
 - Simple and beginner-friendly setup
 
----
+
 
 🙋‍♀️ Author  
 Parvana Arun  
